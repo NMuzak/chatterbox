@@ -16,5 +16,4 @@ pykakasi==2.3.0
 gradio==6.8.0
 pyloudnorm
 omegaconf
--e .
 
